@@ -1,0 +1,27 @@
+#header{
+  position: relative;
+  margin-bottom: 10px;
+  text-align: center;
+  background-image: url(img/logo.jpg);
+}
+.descript{
+  text-align: center;
+  font-style: italic;
+  margin: 70px 50px 10px 0px;
+  font-size: 20px;
+}
+img{
+  position: absolute;
+  width: 15%;
+  top: 30px;
+  left: 40px;
+}
+#search{
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+#LP{
+text-align: right;
+margin: 0px 0 20px 0;
+}
